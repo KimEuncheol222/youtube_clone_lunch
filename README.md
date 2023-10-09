@@ -30,7 +30,7 @@
 <h2>🛠 기술 스택</h2>
 
 ### Frontend  
-<div align="center">  
+<div>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="100" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="100" /></a>   
 </div>
@@ -40,7 +40,7 @@
 
 
 ### Backend  
-<div align="center">  
+<div>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="100" /></a> 
 
 </div>
@@ -132,7 +132,6 @@
 
 <div id="6"></div>
 <h2>:🧰 협업 방식</h2>
-<br>
 
 <h4>Figma</h4>
 원활한 소통과 협업을 위해 디자인을 <strong><a href="https://www.figma.com/file/u6UJW9rpKJRFp3id7P099L/%EC%98%A4%EB%A5%B4%EB%AF%B8-2%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8(Youtube-%ED%81%B4%EB%A1%A0%EC%BD%94%EB%94%A9)-(Copy)-(Copy)?node-id=0%3A1&mode=dev">피그마에</a></strong> 공유
